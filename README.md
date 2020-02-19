@@ -1,3 +1,15 @@
+Teacher Prep
+
+---
+
+Resources
+
+---
+
+Potential Misconceptions
+
+---
+
 <!-- .slide: data-background="#00FECD" -->
 # Lesson Title
 
@@ -9,9 +21,8 @@ Note: testing
 
 - this is an objective
 
-### Vocabualry
 
-- this is a vocab word
+**Vocabulary**: word, word word
 
 ---
 
