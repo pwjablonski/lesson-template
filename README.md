@@ -5,6 +5,16 @@ Note: testing
 
 ---
 
+### Coders will be able to...
+
+- this is an objective
+
+### Vocabualry
+
+- this is a vocab word
+
+---
+
 ## Lists
 1. item 1
 2. item 2
