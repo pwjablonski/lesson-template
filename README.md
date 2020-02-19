@@ -15,13 +15,12 @@
 [Link](https://codenation.org/)
 
 Note: testing
-<!-- .slide: data-background="#00D4FD" -->
 
 
 ---
 
 ![alt text](https://codenation.org/wp-content/uploads/2018/09/hero-home.png')
-<!-- .slide: data-background="#E2A6EB" -->
+
 
 ---
 
@@ -35,3 +34,6 @@ function draw() {}
 
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 <!-- .slide: data-background="#00FECD" -->
+<!-- .slide: data-background="#E2A6EB" -->
+<!-- .slide: data-background="#00D4FD" -->
+<!-- .slide: data-background="#FFA67D" -->
