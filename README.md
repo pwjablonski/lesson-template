@@ -2,7 +2,6 @@
 
 ---
 
-
 ## Page title
 
 1. Lists
@@ -15,16 +14,21 @@
 
 Note: testing
 
-
 ---
+
+## Page title
 
 ![alt text](https://codenation.org/wp-content/uploads/2018/09/hero-home.png)
 
-
 ---
 
+## Page title
 ```javascript
-function draw() {}
+function draw() {
+  
+  
+}
+
 ```
 
 ---
