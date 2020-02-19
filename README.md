@@ -1,28 +1,46 @@
+<!-- .slide: data-background="#00FECD" -->
 # Lesson Title
-
----
-
-## Page title
-
-1. Lists
-
-** Bold **
-
-- bullets
-
-[Link](https://codenation.org/)
 
 Note: testing
 
 ---
 
-## Page title
+## Lists
+1. item 1
+2. item 2
+
+---
+
+## Bullets
+- bullets
+- bullets
+
+---
+
+## Links
+
+[Link](https://codenation.org/)
+
+---
+
+## Decoration
+
+** bold **
+~~strike thorough~~
+*italics*
+
+> Blockquotes are very handy in email to emulate reply text.
+
+---
+
+## Images
 
 ![alt text](https://codenation.org/wp-content/uploads/2018/09/hero-home.png)
 
 ---
 
-## Page title
+## Code
+
 ```javascript
 function draw() {
   
@@ -33,10 +51,9 @@ function draw() {
 
 ---
 
+
+## End
 \ ゜ o ゜)ノ
 
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-<!-- .slide: data-background="#00FECD" -->
-<!-- .slide: data-background="#E2A6EB" -->
-<!-- .slide: data-background="#00D4FD" -->
-<!-- .slide: data-background="#FFA67D" -->
+#00FECD", #E2A6EB", #00D4FD", "#FFA67D"
