@@ -1,5 +1,4 @@
 # Lesson Title
-<!-- .slide: data-background="#FFA67D" -->
 
 ---
 
@@ -19,7 +18,7 @@ Note: testing
 
 ---
 
-![alt text](https://codenation.org/wp-content/uploads/2018/09/hero-home.png')
+![alt text](https://codenation.org/wp-content/uploads/2018/09/hero-home.png)
 
 
 ---
