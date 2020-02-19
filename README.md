@@ -1,6 +1,5 @@
 Welcome to Glitch
-
-------------
+=================
 
 Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
 
@@ -8,8 +7,9 @@ Click `Show` in the header to see your app live. Updates to your code will insta
 
 Find out more [about Glitch](https://glitch.com/about).
 
-Your Project
+---
 
+Your Project
 ------------
 
 ### ← README.md
@@ -31,6 +31,8 @@ If you're feeling fancy you can add interactivity to your site with JavaScript.
 ### ← assets
 
 Drag in `assets`, like images or music, to add them to your project
+
+---
 
 Made by [Glitch](https://glitch.com/)
 -------------------
