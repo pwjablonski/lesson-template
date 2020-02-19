@@ -1,5 +1,6 @@
 Welcome to Glitch
-=================
+
+------------
 
 Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
 
@@ -7,8 +8,8 @@ Click `Show` in the header to see your app live. Updates to your code will insta
 
 Find out more [about Glitch](https://glitch.com/about).
 
-
 Your Project
+
 ------------
 
 ### ← README.md
