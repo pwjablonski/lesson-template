@@ -17,7 +17,7 @@ Reveal.initialize({
     {
       src:
         "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/plugin/notes/notes.js",
-      async: true,
+      async: true
     },
     {
       src:
@@ -29,3 +29,12 @@ Reveal.initialize({
     }
   ]
 });
+
+if (window.location.search.match(/print-pdf/gi)) {
+  var link = document.createElement("link");
+
+  link.rel = "stylesheet";
+  link.type = "text/css";
+  link.href = "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/css/print/pdf.min.css";
+  document.getElementsByTagName("head")[0].appendChild(link);
+}
