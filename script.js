@@ -30,6 +30,9 @@ Reveal.initialize({
   ]
 });
 
+Reveal.configure({ slideNumber: true, showSlideNumber: 'print' });
+
+
 if (window.location.search.match(/print-pdf/gi)) {
   var link = document.createElement("link");
 
