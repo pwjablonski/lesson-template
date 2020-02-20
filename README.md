@@ -1,14 +1,3 @@
-## Code
-```html 
-<html>
-  
-  <a href ="">ter</a>
-</html>
-<!--  -->
-```
-
----
-
 ### Teacher Prep
 
 ---
