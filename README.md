@@ -10,8 +10,8 @@
 
 ---
 
-<!-- .slide: data-background="#00FECD" -->
 # Lesson Title
+<!-- .slide: data-background="#00FECD" -->
 
 ---
 
