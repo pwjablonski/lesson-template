@@ -31,14 +31,14 @@ Reveal.initialize({
   ]
 });
 
-Reveal.configure({ slideNumber: true, showSlideNumber: 'print' });
-
+Reveal.configure({ slideNumber: true, showSlideNumber: "print" });
 
 if (window.location.search.match(/print-pdf/gi)) {
   var link = document.createElement("link");
 
   link.rel = "stylesheet";
   link.type = "text/css";
-  link.href = "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/css/print/pdf.min.css";
+  link.href =
+    "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/css/print/pdf.min.css";
   document.getElementsByTagName("head")[0].appendChild(link);
 }
