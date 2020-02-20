@@ -2,18 +2,16 @@
 
 ---
 
-Resources
+### Resources
 
 ---
 
-Potential Misconceptions
+### Potential Misconceptions
 
 ---
 
 <!-- .slide: data-background="#00FECD" -->
 # Lesson Title
-
-Note: testing
 
 ---
 
@@ -22,7 +20,8 @@ Note: testing
 - this is an objective
 
 
-**Vocabulary**: word, word word
+Vocabulary: **word**, **word**, **word**
+Note: testing
 
 ---
 
