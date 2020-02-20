@@ -43,6 +43,9 @@ if (window.location.search.match(/print-pdf/gi)) {
   document.getElementsByTagName("head")[0].appendChild(link);
 }
 
-function draw() {
+function draw(a, g) {
   var a = "b"
+  var b = false;
+  const v = {a:1};
+  v.a = 3
 }

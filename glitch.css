@@ -5,7 +5,17 @@
   background: #FFF;
   color: #000;
 }
-.hljs-keyword,
+
+.hljs-keyword {
+  color: #00119e;
+  font-weight: bold;
+}
+
+.hljs-string {
+  
+}
+
+/* .hljs-keyword,
 .hljs-literal,
 .hljs-name,
 .hljs-selector-tag,
@@ -13,13 +23,24 @@
 .hljs-tag {
   color: #00119e;
 }
+
+.hljs-literal {
+  color: #15959c
+}
+
+
 .hljs-code {
   color: #66d9ef;
 }
 .hljs-class .hljs-title {
   color: #fff;
 }
-.hljs-attribute,
+
+
+.hljs-attribute{
+  color: #9445b0
+}
+
 .hljs-link,
 .hljs-regexp,
 .hljs-symbol {
@@ -37,7 +58,6 @@
 .hljs-subst,
 .hljs-template-tag,
 .hljs-template-variable,
-.hljs-title,
 .hljs-type,
 .hljs-variable {
   color: #a2162d;
@@ -56,6 +76,6 @@
 .hljs-selector-tag,
 .hljs-title,
 .hljs-type {
-  font-weight: 700;
+  font-weight: 700; */
 }
 /*# sourceMappingURL=monokai.min.css.map */
