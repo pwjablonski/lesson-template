@@ -6,13 +6,25 @@
   color: #000;
 }
 
+.hljs-tag,
+.hljs-selector-tag,
 .hljs-keyword {
   color: #00119e;
   font-weight: bold;
 }
 
 .hljs-string {
-  
+  color: #a2162d;
+}
+
+.hljs-number,
+.hljs-literal {
+  color: #15959c
+}
+
+.hljs-attribute,
+.hljs-attr {
+  color: #9445b0
 }
 
 /* .hljs-keyword,

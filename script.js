@@ -42,10 +42,3 @@ if (window.location.search.match(/print-pdf/gi)) {
     "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/css/print/pdf.min.css";
   document.getElementsByTagName("head")[0].appendChild(link);
 }
-
-function draw(a, g) {
-  var a = "b"
-  var b = false;
-  const v = {a:1};
-  v.a = 3
-}

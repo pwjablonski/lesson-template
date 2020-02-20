@@ -1,11 +1,10 @@
 ## Code
-```javascript 
-function draw() {
-  var a = "b"
-  var b = false;
-  const v = {a:1};
-  v.a = 3
-}
+```html 
+<html>
+  
+  <a href ="">ter</a>
+</html>
+<!--  -->
 ```
 
 ---
