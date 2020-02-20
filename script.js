@@ -1,4 +1,5 @@
 Reveal.initialize({
+  history: true,
   dependencies: [
     {
       src:

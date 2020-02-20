@@ -71,10 +71,7 @@ function draw() {
   
   
 }
-
 ```
-<!-- .element: data-line-numbers="1,3-4" -->
-
 
 ---
 
