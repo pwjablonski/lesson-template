@@ -68,7 +68,7 @@ This is a timer
 ## Code
 ```javascript 
 function draw() {
-  
+  var a = "b"
   
 }
 ```
